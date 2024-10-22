@@ -13,4 +13,4 @@ k cluster-info
 
 3. 列出集群可用资源类型
 ```
-k 
+k api-resources
