@@ -1,18 +1,19 @@
 {
-  "title":"任务和定时任务",
-  "description":"教你重新认识k8s任务和定时任务",
+  "title": "任务和定时任务",
+  "description": "教你重新认识k8s任务和定时任务",
   "details": {
-    "intro":{
+    "intro": {
       "text": "intro.md"
     },
-    "steps":[
+    "steps": [
       {
         "title": "创建任务",
-        "text": "step1/text.md",
-      },
+        "text": "step1/text.md"
+      }
     ]
-     },
-   "backend": {
+  },
+  "backend": {
     "imageid": "kubernetes-kubeadm-1node"
-    }
+  }
 }
+
