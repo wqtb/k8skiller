@@ -10,9 +10,9 @@
         "title": "创建任务",
         "text": "step1/text.md",
       },
-    ]
-    "backend": {
+    ],
+     },
+   "backend": {
     "imageid": "kubernetes-kubeadm-1node"
     }
-  }
 }
