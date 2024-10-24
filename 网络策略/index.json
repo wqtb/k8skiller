@@ -1,1 +1,18 @@
-
+{
+  "title": "网络策略",
+  "description": "k8s的pod间通讯‘防火墙’",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "创建pod",
+        "text": "step1/text.md",
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-2nodes"
+  }
+}
